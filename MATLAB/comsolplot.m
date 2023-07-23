@@ -1,7 +1,7 @@
 % datanorm.mat, dataex.mat, datacut2norm.mat ,and datacut2ex.mat,
 % data4sph.mat are exported from COMSOL Multiphysics different mesh sizes
 % at t=4.2ms (Max amplitude) with following specs :
-%%%%% Target: 10mm < x < 13mm , 21mm < y < 23.5mm (Brain right STN)
+%%%%% Targets: 10mm < x < 13mm , 21mm < y < 23.5mm (Brain right STN)
 % 1-sphere 140mm head model
 % cyl1 x:130mm - y:42mm - z:-18mm
 % cyl2 x:140mm - y:11mm - z:-18mm
